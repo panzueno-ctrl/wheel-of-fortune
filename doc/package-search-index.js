@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"ruotadellafortuna.coredelgioco"},{"l":"ruotadellafortuna.eccezionidelgioco"},{"l":"ruotadellafortuna.main"},{"l":"ruotadellafortuna.modello"},{"l":"ruotadellafortuna.util"}];updateSearchResults();
